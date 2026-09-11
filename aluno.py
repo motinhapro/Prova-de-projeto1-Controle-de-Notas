@@ -13,7 +13,7 @@ class Aluno:
         if self.media() >= 7:
             return "Aprovado"
         else:
-            return "Aprovado"
+            return "Reprovado"
 
 
 if __name__ == "__main__":
